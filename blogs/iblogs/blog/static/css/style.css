@@ -7,6 +7,14 @@
 }
 
 .container-custom{
-    width: 95%!important;
+    width: 90%!important;
     margin: auto;
+}
+
+.ht{
+    width: 10px;
+}
+
+.item{
+    margin-left: 10px;
 }
